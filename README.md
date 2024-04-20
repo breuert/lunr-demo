@@ -1,1 +1,1 @@
-# lunr-demo
+A simple demo of [lunr.js](https://lunrjs.com/) based on [moonwalkers](https://github.com/olivernn/moonwalkers) by [olivernn](https://github.com/olivernn) and a data sample from the [IR Anthology](https://ir.webis.de/anthology/).
